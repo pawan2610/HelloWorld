@@ -1,0 +1,14 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 44A3-AD04
+
+ Directory of f:\work\jenkins\java project
+
+05/22/2018  07:19 PM    <DIR>          .
+05/22/2018  07:19 PM    <DIR>          ..
+05/22/2018  06:02 PM               675 Hello.class
+05/22/2018  05:53 PM               148 hello.java
+03/29/2018  06:43 PM               507 index.html
+03/29/2018  06:43 PM               456 readme.txt
+05/22/2018  07:19 PM                 0 testing.txt
+               5 File(s)          1,786 bytes
+               2 Dir(s)  39,822,057,472 bytes free
